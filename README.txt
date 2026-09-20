@@ -12,7 +12,7 @@ This project is a work in progress. The files may be revised, corrected, and exp
 
 ## Source
 
-**Manuscript:** Biblioteca Apostolica Vaticana, Vat. gr. 2228
+**Manuscript:** Biblioteca Apostolica Vaticana, Vat. gr. 2228, diktyon 68859
 
 **Catalogue:** S. Lilla, *Bibliothecae Apostolicae Vaticanae Codices Manuscripti Recensiti. Codices Vaticani graeci. Codices 2162–2254 (Codices Columnenses)*, Vaticano, 1985, pp. 307–313.
 
