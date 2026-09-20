@@ -84,7 +84,7 @@ If you use, reproduce, adapt, or redistribute material from this repository, **a
 
 Please cite the project and provide a link to this repository. When possible, please use the following citation:
 
-> Aglae Pizzone, Nicklas Sindlev, Byron MacDougall, and Ugo Valori, *A Transcription of Vat. gr. 2228*, https://github.com/ByzHerm.
+> Aglae Pizzone, Nicklas Sindlev Andersen, Byron MacDougall, and Ugo Valori, *A Transcription of Vat. gr. 2228*, https://github.com/ByzHerm.
 
 For academic publications, presentations, editions, datasets, or other scholarly work, please retain the project attribution and repository reference wherever the transcription, XML, metadata, or material derived from this repository is used.
 
